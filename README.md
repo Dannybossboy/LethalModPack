@@ -12,7 +12,7 @@
 3. Play
 
 [MOD LIST]
-BepInEX [by BepInEx]
+BepInEx [by BepInEx]
 LC API [by 2018]
 More Company [by notnotswipez]
 Late Company [by anormaltwig]
