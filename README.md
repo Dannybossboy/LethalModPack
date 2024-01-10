@@ -12,3 +12,18 @@
 3. Play
 
 [MOD LIST]
+BepInEX [by BepInEx]
+LC API [by 2018]
+More Company [by notnotswipez]
+Late Company [by anormaltwig]
+More Suits [by x753]
+ReservedItemSlotCore [by FlipMods]
+LethalLib [by Evaisa]
+Skinwalkers [by RugbugRedFern]
+More Emotes [by Sligili]
+Mimics [by x753]
+ReservedFlashlightSlot [by FlipMods]
+BiggerLobby [by bizzlemip]
+ReservedWalkieSlot [by FlipMods]
+
+
