@@ -25,5 +25,7 @@ Mimics [by x753]
 ReservedFlashlightSlot [by FlipMods]
 BiggerLobby [by bizzlemip]
 ReservedWalkieSlot [by FlipMods]
+FreeJester [by atg]
+
 
 
